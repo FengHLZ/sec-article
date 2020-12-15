@@ -1,6 +1,14 @@
 # sec-article
 平时阅读的安全文章及其中涉及的知识点
 
+### 4. 免杀框架
+
+[掩日 AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)
+
+[FourEye（重明）](https://github.com/lengjibo/FourEye)
+
+[shellcodeloader](https://github.com/knownsec/shellcodeloader)
+
 ### 3. [红队中易被攻击的一些重点系统漏洞整理](https://mp.weixin.qq.com/s/6I-Yp0A69rLr3RfruIAkhA)
 
 ### 2. [XSS 实战攻击思路总结 ](https://xz.aliyun.com/t/8459)
