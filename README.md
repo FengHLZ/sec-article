@@ -11,7 +11,9 @@
 
 [shellcodeloader](https://github.com/knownsec/shellcodeloader)
 
-### 3. [红队中易被攻击的一些重点系统漏洞整理](https://mp.weixin.qq.com/s/6I-Yp0A69rLr3RfruIAkhA)
+### 3. [红队中易被攻击的一些重点系统漏洞整理](https://github.com/r0eXpeR/redteam_vul)
+
+###### `OA系统`、`E-mail`、`Web中间件`、`源代码管理`、`项目管理系统`、`数据库`
 
 ### 2. [XSS 实战攻击思路总结 ](https://xz.aliyun.com/t/8459)
 
