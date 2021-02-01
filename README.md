@@ -1,6 +1,8 @@
 # sec-article
 平时阅读的安全文章及其中涉及的知识点
 
+### 5. [使用 Cloudflare Workers 隐藏 C&C 流量](https://mp.weixin.qq.com/s/ozzyalC8anfi9VAHb3r-oQ)
+
 ### 4. 免杀框架
 
 [掩日 AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)
