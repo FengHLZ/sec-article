@@ -1,11 +1,11 @@
 # sec-article
 平时阅读的安全文章及其中涉及的知识点
 
-### 5. [云服务器 AccessKey 密钥泄露](https://mp.weixin.qq.com/s/RkQ7x6vcP9DVvyQ1jv5Akg)
+### 7. [云服务器 AccessKey 密钥泄露](https://mp.weixin.qq.com/s/RkQ7x6vcP9DVvyQ1jv5Akg)
 
 ###### `accessid`、`accesskey利用工具`
 
-### 5. [Apache Shiro 认证绕过分析（CVE-2020-17523）](https://github.com/jweny/shiro-cve-2020-17523)
+### 6. [Apache Shiro 认证绕过分析（CVE-2020-17523）](https://github.com/jweny/shiro-cve-2020-17523)
 
 ### 5. [使用 Cloudflare Workers 隐藏 C&C 流量](https://mp.weixin.qq.com/s/ozzyalC8anfi9VAHb3r-oQ)
 
