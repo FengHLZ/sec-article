@@ -3,7 +3,7 @@
 
 ### 9. [邮件钓鱼入门到入土](https://www.freebuf.com/articles/web/260391.html)
 
-### 8. [Java 模板和内容管理系统（CMS）](8. Java 模板和内容管理系统（CMS）.png)
+### 8. [Java 模板和内容管理系统（CMS）](https://github.com/FengHLZ/sec-article/blob/main/8.%20Java%20%E6%A8%A1%E6%9D%BF%E5%92%8C%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%88CMS%EF%BC%89.png)
 
 ### 7. [云服务器 AccessKey 密钥泄露](https://mp.weixin.qq.com/s/RkQ7x6vcP9DVvyQ1jv5Akg)
 
