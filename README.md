@@ -1,6 +1,8 @@
 # sec-article
 平时阅读的安全文章及其中涉及的知识点
 
+### 10. [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
+
 ### 9. [邮件钓鱼入门到入土](https://www.freebuf.com/articles/web/260391.html)
 
 ### 8. [Java 模板和内容管理系统（CMS）](https://github.com/FengHLZ/sec-article/blob/main/8.%20Java%20%E6%A8%A1%E6%9D%BF%E5%92%8C%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%88CMS%EF%BC%89.png)
