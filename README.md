@@ -1,6 +1,10 @@
 # sec-article
 平时阅读的安全文章及其中涉及的知识点
 
+### 11. [Vulnhub渗透测试靶场从Git泄露到Get-root[GitRoot]](https://forum.90sec.com/t/topic/1574)
+
+###### `git漏洞方方面面`、`git泄露`、`git提权`
+
 ### 10. [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
 
 ### 9. [邮件钓鱼入门到入土](https://www.freebuf.com/articles/web/260391.html)
