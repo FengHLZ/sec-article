@@ -3,7 +3,7 @@
 
 ### 11. [Vulnhub渗透测试靶场从Git泄露到Get-root[GitRoot]](https://forum.90sec.com/t/topic/1574)
 
-###### `git漏洞方方面面`、`git泄露`、`git提权`
+###### `git漏洞方方面面`、`git泄露`、`git提权`、`[gittools](https://github.com/internetwache/GitTools)`
 
 ### 10. [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
 
